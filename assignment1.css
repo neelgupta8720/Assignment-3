@@ -1,0 +1,23 @@
+body{
+    background-image:url("white-sand.jpg");
+}
+
+.heading{
+    
+    font-size: 50px;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;;   
+}
+
+.content{
+    font-size: 20px;
+
+}
+
+.Ed{
+
+    font-size: 50px;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;;   
+}
+
